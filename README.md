@@ -1,11 +1,7 @@
-In northeastern Ohio you find yourself stranded at a run down water park. 
-The water attractions are closed due to poor weather so you are stuck with 
-the dry attractions of the park. 
+In northeastern Ohio you find yourself stranded at a run down water park. The water attractions are closed due to poor weather so you are stuck with the dry attractions of the park. 
 
 
-Unzip the .zip in release and run the included exe to play the game. You can teleport 
-with the joystick, grab with the grip trigger, and shoot the air cannons with the right 
-trigger.
+Unzip the .zip in release and run the included exe to play the game. You can teleport with the joystick, grab with the grip trigger, and shoot the air cannons with the right trigger.
 
 
 
