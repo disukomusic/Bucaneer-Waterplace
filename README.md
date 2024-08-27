@@ -3,7 +3,7 @@ In northeastern Ohio you find yourself stranded at a run down water park. The wa
 
 Unzip the .zip in release and run the included exe to play the game. You can teleport with the joystick, grab with the grip trigger, and shoot the air cannons with the right trigger.
 
-
+[[CONTAINS EXPLICIT CONTENT]]
 
 Cartoon Kid Character
 https://www.turbosquid.com/3d-models/3d-cartoon-kid-character-2209378
